@@ -1,4 +1,4 @@
-# Mobile_Sales_Data_AnalysiS (Interactive Dashboard Creation Using POWER BI)
+# Mobile_Sales_Data_Analysis (Interactive Dashboard Creation Using POWER BI)
 
 
 
