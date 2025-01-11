@@ -1,15 +1,21 @@
 # Mobile_Sales_Data_AnalysiS (Interactive Dashboard Creation Using POWER BI)
 
 
+
+
 # Project Objective
 
 This project is a Power BI dashboard designed to visualize and analyze mobile sales data. It provides key insights into mobile sales performance across various regions, time periods, and product categories.
 
 
 
+
+
 ## Tools & Library Used
 
 ![Screenshot 2025-01-10 003108](https://github.com/user-attachments/assets/64d4f265-eb07-43a5-8dc4-17e0ff6596e9)
+
+
 
 
 
@@ -35,7 +41,8 @@ KPIs for quick business insights (total sales, average sales, growth, etc.)
 
 # Dataset used
 
-  <a href = "https://github.com/snehap2000/Mobile_Sales_Data_Analysis-Power_BI/blob/main/Mobile%20Sales%20Data.xlsx">DATA SET</a>
+  <a href = "https://github.com/snehap2000/Mobile_Sales_Data_Analysis-Power_BI/blob/main/Mobile%20Sales%20Data.xlsx">DataSet</a>
+
 
 
 
@@ -55,17 +62,39 @@ Key Performance Indicators (KPIs): Display of key metrics such as total sales, a
 
 
 
+
 # Dashboard Interaction
 
-<a herf = "https://github.com/snehap2000/Mobile_Sales_Data_Analysis-Power_BI/blob/main/Mobile_S%20dasboard.png">View Dashboard</a>
+ ![Mobile_S dasboard](https://github.com/user-attachments/assets/d493697d-ae24-40bf-a2ac-617b6f3c74de)
+ 
 
 
 
-<a herf = "https://github.com/snehap2000/Mobile_Sales_Data_Analysis-Power_BI/blob/main/Mobile_S%20MTD_DASH.png">View Dashboard</a>
 
 
 
-<a herf = "https://github.com/snehap2000/Mobile_Sales_Data_Analysis-Power_BI/blob/main/Mobile_S%20%20%2CSPLY.png">View Dashboard</a>
+
+![Mobile_S MTD_DASH](https://github.com/user-attachments/assets/0091c219-ac7b-40f7-9bd7-7e9c98205602)
+
+
+
+
+
+
+
+
+
+![Mobile_S  ,SPLY](https://github.com/user-attachments/assets/17f27c8b-b522-461d-b1ed-a06a4b6dc016)
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -81,12 +110,16 @@ Analyze key business metrics with KPIs displayed on the dashboard.
 
 
 
+
+
 # Technologies Used
 
 Power BI Desktop for dashboard creation and visualization
 DAX (Data Analysis Expressions) for calculations and metrics
 Power Query for data transformation and cleaning
 Excel/CSV for data input and source
+
+
 
 
 
@@ -101,6 +134,7 @@ Regional Sales Insights to target specific geographic areas.
 Product Category Performance to focus on best-sellers and optimize inventory.
 Customer Demographics for more targeted marketing.
 KPIs for quick decision-making and performance monitoring.
+
 
 
 
