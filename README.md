@@ -29,16 +29,6 @@ The Mobile Sales Dashboard aims to provide a comprehensive view of mobile sales 
 
 
 
-## Key features of the dashboard include:
-
-Sales trend analysis over time
-Regional sales distribution
-Sales by product category
-Interactive filters and slicers
-KPIs for quick business insights (total sales, average sales, growth, etc.)
-
-
-
 # Dataset used
 
   <a href = "https://github.com/snehap2000/Mobile_Sales_Data_Analysis-Power_BI/blob/main/Mobile%20Sales%20Data.xlsx">DataSet</a>
@@ -65,8 +55,14 @@ Key Performance Indicators (KPIs): Display of key metrics such as total sales, a
 
 # Dashboard Interaction
 
+
+
  ![Mobile_S dasboard](https://github.com/user-attachments/assets/d493697d-ae24-40bf-a2ac-617b6f3c74de)
  
+
+
+
+
 
 
 
@@ -84,7 +80,13 @@ Key Performance Indicators (KPIs): Display of key metrics such as total sales, a
 
 
 
+
+
+
 ![Mobile_S  ,SPLY](https://github.com/user-attachments/assets/17f27c8b-b522-461d-b1ed-a06a4b6dc016)
+
+
+
 
 
 
@@ -112,11 +114,16 @@ Analyze key business metrics with KPIs displayed on the dashboard.
 
 
 
+
+
 # Technologies Used
 
 Power BI Desktop for dashboard creation and visualization
+
 DAX (Data Analysis Expressions) for calculations and metrics
+
 Power Query for data transformation and cleaning
+
 Excel/CSV for data input and source
 
 
