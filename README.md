@@ -57,43 +57,7 @@ Key Performance Indicators (KPIs): Display of key metrics such as total sales, a
 
 
 
- ![Mobile_S dasboard](https://github.com/user-attachments/assets/d493697d-ae24-40bf-a2ac-617b6f3c74de)
- 
-
-
-
-
-
-
-
-
-
-
-
-![Mobile_S MTD_DASH](https://github.com/user-attachments/assets/0091c219-ac7b-40f7-9bd7-7e9c98205602)
-
-
-
-
-
-
-
-
-
-
-
-
-![Mobile_S  ,SPLY](https://github.com/user-attachments/assets/17f27c8b-b522-461d-b1ed-a06a4b6dc016)
-
-
-
-
-
-
-
-
-
-
+  <a href = "https://github.com/snehap2000/Mobile_Sales_Data_Analysis-Power_BI/blob/main/Mobile%20sales%20dashboard.pbix">ViewDashboard</a>
 
 
 
@@ -125,6 +89,40 @@ DAX (Data Analysis Expressions) for calculations and metrics
 Power Query for data transformation and cleaning
 
 Excel/CSV for data input and source
+
+
+
+
+
+
+# Dashboard
+
+
+ ![Mobile_S dasboard](https://github.com/user-attachments/assets/d493697d-ae24-40bf-a2ac-617b6f3c74de)
+
+
+
+
+
+
+
+
+
+![Mobile_S MTD_DASH](https://github.com/user-attachments/assets/0091c219-ac7b-40f7-9bd7-7e9c98205602)
+
+
+
+
+
+
+
+
+
+
+
+![Mobile_S  ,SPLY](https://github.com/user-attachments/assets/17f27c8b-b522-461d-b1ed-a06a4b6dc016)
+
+
 
 
 
