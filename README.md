@@ -70,7 +70,9 @@ Key Performance Indicators (KPIs): Display of key metrics such as total sales, a
 Once the dashboard is loaded in Power BI, you can:
 
 Interact with the various slicers (e.g., time period, region) to filter data.
+
 View the trends, product sales, and regional performance, Payment method, various mobile model and more.
+
 Analyze key business metrics with KPIs displayed on the dashboard.
 
 
