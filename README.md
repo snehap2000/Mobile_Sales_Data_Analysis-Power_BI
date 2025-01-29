@@ -57,7 +57,7 @@ Key Performance Indicators (KPIs): Display of key metrics such as total sales, a
 
 
 
-  <a href = "https://github.com/snehap2000/Mobile_Sales_Data_Analysis-Power_BI/blob/main/Mobile%20sales%20dashboard.pbix">ViewDashboard</a>
+  <a href = "https://github.com/snehap2000/Mobile_Sales_Data_Analysis-Power_BI/blob/main/DASHBOARD'S.pbix">ViewDashboard</a>
 
 
 
