@@ -47,7 +47,7 @@ Product Insights: Breakdown of sales by different mobile models, brands, and cat
 
 Interactive Slicers: Ability to filter data by time period, region, product,Brands etc.
 
-Key Performance Indicators (KPIs): Display of key metrics such as total sales, average sales, units sold, and more
+Key Performance Indicators (KPIs): Display of key metrics such as total sales, average sales, units sold, and more.
 
 
 
